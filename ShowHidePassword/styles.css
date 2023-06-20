@@ -43,7 +43,6 @@ input:focus {
 h3 {
   color: white;
   text-align: center;
-  transform: translateY(-50px);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -63,4 +62,14 @@ span {
 .fa {
   font-size: 20px;
   color: #7a797e;
+}
+
+.back {
+  margin-top: 100px;
+  color: white;
+}
+
+a {
+  color: white;
+  font-family: serif;
 }
